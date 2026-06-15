@@ -20,7 +20,7 @@ O bootcamp aborda fundamentos e aplicações práticas de Inteligência Artifici
 
 | # | Projeto | Descrição |
 |---|---------|-----------|
-| 01 | Caderno Temático: IA Tutora de Programação com Pedagogia Freiriana | Caderno temático no NotebookLM explorando como projetar uma IA tutora de programação baseada em educação problematizadora (Paulo Freire), com testes de engenharia de prompts. |
+| 01 | [Caderno Temático: IA Tutora de Programação com Pedagogia Freiriana](https://github.com/gustavodema01/Bootcamp-Bradesco/tree/main/01-caderno-tematico-ia-tutora) | Caderno temático no NotebookLM explorando como projetar uma IA tutora de programação baseada em educação problematizadora (Paulo Freire), com testes de engenharia de prompts. |
 
 > Novos desafios serão adicionados em pastas numeradas conforme o curso avança.
 

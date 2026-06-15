@@ -1,9 +1,5 @@
 # Bootcamp Bradesco - GenAI, Dados & Cyber
 
-<h1 align="center">
-  Bootcamp Bradesco - GenAI, Dados & Cyber
-</h1>
-
 <p align="center">
   <img src="./assets/bootcamp-badge1.png" alt="Badge do Bootcamp" width="150">
 </p>

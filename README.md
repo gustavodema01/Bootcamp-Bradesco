@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./assets/bootcamp-badge1.png" alt="Badge do Bootcamp" width="150">
 </p>
-Repositório com os projetos e desafios desenvolvidos durante o Bootcamp Bradesco - GenAI, Dados & Cyber, realizado na [DIO (Digital Innovation One)](www.dio.me/bootcamp/bradesco-genai-dados).
+Repositório com os projetos e desafios desenvolvidos durante o Bootcamp Bradesco - GenAI, Dados & Cyber, realizado na DIO (Digital Innovation One).
 
 O bootcamp aborda fundamentos e aplicações práticas de Inteligência Artificial Generativa, Machine Learning, Deep Learning, Engenharia de Prompts, Dados e Cibersegurança.
 
